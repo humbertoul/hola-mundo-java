@@ -3,10 +3,9 @@ public class Main {
         System.out.println("Hello world!");
         System.out.println("Hola saulo");
 
-        int x = 0;
-        for (x=20; x<100; x++){
-            System.out.println(x);
-        }
+      int y = 10;
+      int x = 5;
 
+        System.out.println(x - y);
     }
 }
